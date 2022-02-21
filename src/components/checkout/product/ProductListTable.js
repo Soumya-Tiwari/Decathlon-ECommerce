@@ -162,6 +162,7 @@ const ProductListTable = (props) => {
                         autoFocus
                         margin="normal"
                         name="quantity"
+                        disabled
                         onBlur={() => { }}
                         onChange={() => { }}
                         type="text"
