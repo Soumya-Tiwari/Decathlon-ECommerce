@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Create one .env at the root of your app before you do npm start and paste following content
+SKIP_PREFLIGHT_CHECK=true
 ## Available Scripts
 
 In the project directory, you can run:
